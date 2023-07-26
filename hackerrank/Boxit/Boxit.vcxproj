@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="Boxit.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="boxit.hpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

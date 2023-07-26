@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Boxit", "Boxit\Boxit.vcxproj", "{82767AB2-F001-4E84-A8F8-E81E15D8F282}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boxitTEST", "boxitTEST\boxitTEST.vcxproj", "{74D87A50-1450-4E3F-8703-65E1AB6627F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{82767AB2-F001-4E84-A8F8-E81E15D8F282}.Release|x64.Build.0 = Release|x64
 		{82767AB2-F001-4E84-A8F8-E81E15D8F282}.Release|x86.ActiveCfg = Release|Win32
 		{82767AB2-F001-4E84-A8F8-E81E15D8F282}.Release|x86.Build.0 = Release|Win32
+		{74D87A50-1450-4E3F-8703-65E1AB6627F4}.Debug|x64.ActiveCfg = Debug|x64
+		{74D87A50-1450-4E3F-8703-65E1AB6627F4}.Debug|x64.Build.0 = Debug|x64
+		{74D87A50-1450-4E3F-8703-65E1AB6627F4}.Debug|x86.ActiveCfg = Debug|Win32
+		{74D87A50-1450-4E3F-8703-65E1AB6627F4}.Debug|x86.Build.0 = Debug|Win32
+		{74D87A50-1450-4E3F-8703-65E1AB6627F4}.Release|x64.ActiveCfg = Release|x64
+		{74D87A50-1450-4E3F-8703-65E1AB6627F4}.Release|x64.Build.0 = Release|x64
+		{74D87A50-1450-4E3F-8703-65E1AB6627F4}.Release|x86.ActiveCfg = Release|Win32
+		{74D87A50-1450-4E3F-8703-65E1AB6627F4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
